@@ -1,0 +1,10 @@
+target
+.settings
+logs
+.idea
+*.iml
+.classpath
+.project
+bin
+*.svn
+*/lib/*
